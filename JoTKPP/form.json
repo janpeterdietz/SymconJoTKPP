@@ -81,7 +81,7 @@
         },{
             "type": "CheckBox",
             "name": "WriteMode",
-            "caption": "Enable Write-Mode (WARNING: The author rejects any liability for damage that might arise from using this function.)"
+            "caption": "Enable Write-Mode (WARNING: The sdds rejects any liability for damage that might arise from using this function.)"
         },{
             "type": "Tree",
             "name": "IdentList",
